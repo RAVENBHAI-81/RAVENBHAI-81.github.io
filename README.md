@@ -21,7 +21,8 @@ A modern, responsive portfolio website built with pure HTML, CSS, and JavaScript
 
 ```
 portfolio/
-├── index.html      # Main portfolio file
+├── index.html     # Main portfolio file
+├── preview.png
 └── README.md       # This file
 ```
 
